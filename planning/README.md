@@ -1,0 +1,1 @@
+I'm using the Marvel API to create a Marvel Comics DB. It will link Characters, Series, and Creators for each based on the provided API information.

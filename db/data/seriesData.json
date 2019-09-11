@@ -1,0 +1,831 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2019 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2019 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2019 MARVEL</a>",
+    "etag": "bd3a21cab355d8c8c6541735f955f4c704775956",
+    "data": {
+      "offset": 0,
+      "limit": 20,
+      "total": 2,
+      "count": 2,
+      "results": [
+        {
+          "id": 2069,
+          "title": "Spider-Man (1990 - 1998)",
+          "description": null,
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/series/2069/spider-man_1990_-_1998?utm_campaign=apiRef&utm_source=76c7282f8c585c91cd6f4675c0248899"
+            }
+          ],
+          "startYear": 1990,
+          "endYear": 1998,
+          "rating": "",
+          "type": "",
+          "modified": "2013-03-19T16:14:02-0400",
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/5148c670b8fe9",
+            "extension": "jpg"
+          },
+          "creators": {
+            "available": 55,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/2069/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+                "name": "Comicraft",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2529",
+                "name": "Liz Agraphiotis",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Virtual Calligr",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12581",
+                "name": "Vc Chris Eliopoulos",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3929",
+                "name": "Siobhan Hanna",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2330",
+                "name": "Malibu",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3927",
+                "name": "But Not on an actual published Comic",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+                "name": "Hi-&#8203;Fi Design",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2112",
+                "name": "Larry Alexander",
+                "role": "penciler"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1945",
+                "name": "Mark Bernardo",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3395",
+                "name": "Dan Cuddy",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+                "name": "Tom Defalco",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6049",
+                "name": "Danny Fingeroth",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+                "name": "Bob Harras",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4131",
+                "name": "Matt Hicks",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1185",
+                "name": "Pat Broderick",
+                "role": "penciller"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2427",
+                "name": "Sam DeLaRosa",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+                "name": "Scott Hanna",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+                "name": "J. M. DeMatteis",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+                "name": "Todd Dezago",
+                "role": "writer"
+              }
+            ],
+            "returned": 20
+          },
+          "characters": {
+            "available": 30,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/2069/characters",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+                "name": "Adam Warlock"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+                "name": "Beast"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009218",
+                "name": "Calypso"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+                "name": "Colossus"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009254",
+                "name": "Crusher Hogan"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010890",
+                "name": "Deathlok"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010925",
+                "name": "Ghost Rider (Daniel Ketch)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+                "name": "Ghost Rider (Johnny Blaze)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009347",
+                "name": "Hobgoblin (Roderick Kingsley)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009391",
+                "name": "Kraven the Hunter"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009404",
+                "name": "Lizard"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009708",
+                "name": "Mary Jane Watson"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009454",
+                "name": "Morbius"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+                "name": "Mr. Fantastic"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009477",
+                "name": "Nova"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009513",
+                "name": "Puck"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009560",
+                "name": "Sasquatch (Walter Langkowski)"
+              }
+            ],
+            "returned": 20
+          },
+          "stories": {
+            "available": 274,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/2069/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23744",
+                "name": " Spider-Man (1990) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23745",
+                "name": "Torment Part 1",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23746",
+                "name": "interior to Spider-Man (1990) #10",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23747",
+                "name": "interior to Spider-Man (1990) #11",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23748",
+                "name": "interior to Spider-Man (1990) #12",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23749",
+                "name": "interior to Spider-Man (1990) #13",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23750",
+                "name": "interior to Spider-Man (1990) #14",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23751",
+                "name": "interior to Spider-Man (1990) #15",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23752",
+                "name": "",
+                "type": ""
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23753",
+                "name": "",
+                "type": ""
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23754",
+                "name": "interior to Spider-Man (1990) #18",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23755",
+                "name": "interior to Spider-Man (1990) #19",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23756",
+                "name": " Spider-Man (1990) #2",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23757",
+                "name": "Torment, Part 2",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23758",
+                "name": "Spider Mania",
+                "type": "text article"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23759",
+                "name": "interior to Spider-Man (1990) #20",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23760",
+                "name": "interior to Spider-Man (1990) #21",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23761",
+                "name": "interior to Spider-Man (1990) #22",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23762",
+                "name": "interior Spider-Man (1990) #23",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23763",
+                "name": "",
+                "type": ""
+              }
+            ],
+            "returned": 20
+          },
+          "comics": {
+            "available": 98,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/2069/comics",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10767",
+                "name": "Spider-Man (1990) #1"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+                "name": "Spider-Man (1990) #2"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10789",
+                "name": "Spider-Man (1990) #3"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10800",
+                "name": "Spider-Man (1990) #4"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10811",
+                "name": "Spider-Man (1990) #5"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10822",
+                "name": "Spider-Man (1990) #6"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10833",
+                "name": "Spider-Man (1990) #7"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10844",
+                "name": "Spider-Man (1990) #8"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10855",
+                "name": "Spider-Man (1990) #9"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10768",
+                "name": "Spider-Man (1990) #10"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10769",
+                "name": "Spider-Man (1990) #11"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10770",
+                "name": "Spider-Man (1990) #12"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10771",
+                "name": "Spider-Man (1990) #13"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10772",
+                "name": "Spider-Man (1990) #14"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10773",
+                "name": "Spider-Man (1990) #15"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10774",
+                "name": "Spider-Man (1990) #16"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10775",
+                "name": "Spider-Man (1990) #17"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10776",
+                "name": "Spider-Man (1990) #18"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10777",
+                "name": "Spider-Man (1990) #19"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10779",
+                "name": "Spider-Man (1990) #20"
+              }
+            ],
+            "returned": 20
+          },
+          "events": {
+            "available": 3,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/2069/events",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+                "name": "Infinity War"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+                "name": "Maximum Carnage"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+                "name": "Onslaught"
+              }
+            ],
+            "returned": 3
+          },
+          "next": null,
+          "previous": null
+        },
+        {
+          "id": 20508,
+          "title": "Spider-Man (2016 - 2018)",
+          "description": null,
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20508",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/series/20508/spider-man_2016_-_2018?utm_campaign=apiRef&utm_source=76c7282f8c585c91cd6f4675c0248899"
+            }
+          ],
+          "startYear": 2016,
+          "endYear": 2018,
+          "rating": "Rated T",
+          "type": "ongoing",
+          "modified": "2018-04-25T16:07:29-0400",
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/5a9727c8e2c97",
+            "extension": "jpg"
+          },
+          "creators": {
+            "available": 27,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/20508/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+                "name": "Kris Anka",
+                "role": "penciller (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+                "name": "Adi Granov",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+                "name": "David Marquez",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12998",
+                "name": "Oscar Bazaldua",
+                "role": "penciler"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12976",
+                "name": "Patrick Brown",
+                "role": "painter (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9096",
+                "name": "Michael Cho",
+                "role": "painter (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13068",
+                "name": "J. Scott Campbell",
+                "role": "inker (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13506",
+                "name": "Gaetano Carlucci",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12480",
+                "name": "Szymon Kudranski",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13033",
+                "name": "Nico Leon",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+                "name": "Sara Pichelli",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+                "name": "Vc Clayton Cowles",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+                "name": "Vc Cory Petit",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8028",
+                "name": "Andrew Crossley",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13036",
+                "name": "Emilio Lopez",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+                "name": "Jason Keith",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12696",
+                "name": "Nico Leon",
+                "role": "penciller"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                "name": "Nick Lowe",
+                "role": "editor"
+              }
+            ],
+            "returned": 20
+          },
+          "characters": {
+            "available": 12,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/20508/characters",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009185",
+                "name": "Black Cat"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+                "name": "Captain Marvel (Carol Danvers)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009287",
+                "name": "Electro"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009334",
+                "name": "Hammerhead"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009378",
+                "name": "Jessica Jones"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017577",
+                "name": "Ms. Marvel (Kamala Khan)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017078",
+                "name": "Nova (Sam Alexander)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009558",
+                "name": "Sandman"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011265",
+                "name": "Sinister Six"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017603",
+                "name": "Spider-Gwen (Spider-Gwen)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+                "name": "Spider-Man (Miles Morales)"
+              }
+            ],
+            "returned": 12
+          },
+          "stories": {
+            "available": 76,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/20508/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122429",
+                "name": "cover from Spider-Man (2015) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122430",
+                "name": "story from Spider-Man (2015) #1",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122433",
+                "name": "cover from Spider-Man (2015) #2",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122434",
+                "name": "story from Spider-Man (2015) #2",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122437",
+                "name": "cover from Spider-Man (2015) #3",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122438",
+                "name": "story from Spider-Man (2015) #3",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122439",
+                "name": "cover from Spider-Man (2015) #4",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122440",
+                "name": "story from Spider-Man (2015) #4",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122441",
+                "name": "cover from Spider-Man (2015) #5",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122442",
+                "name": "story from Spider-Man (2015) #5",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122443",
+                "name": "cover from Spider-Man (2015) #6",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122444",
+                "name": "story from Spider-Man (2015) #6",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122445",
+                "name": "cover from Spider-Man (2015) #7",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122446",
+                "name": "story from Spider-Man (2015) #7",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122447",
+                "name": "cover from Spider-Man (2015) #8",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122448",
+                "name": "story from Spider-Man (2015) #8",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122449",
+                "name": "cover from Spider-Man (2015) #9",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122450",
+                "name": "story from Spider-Man (2015) #9",
+                "type": "interiorStory"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122451",
+                "name": "cover from Spider-Man (2015) #10",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/122452",
+                "name": "story from Spider-Man (2015) #10",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 20
+          },
+          "comics": {
+            "available": 38,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/20508/comics",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55693",
+                "name": "Spider-Man (2016) #1"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/58479",
+                "name": "Spider-Man (2016) #1 (Young Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/58480",
+                "name": "Spider-Man (2016) #1 (Blank Cover Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/58249",
+                "name": "Spider-Man (2016) #1 (Michael Cho Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/57126",
+                "name": "Spider-Man (2016) #1 (Bagley Classic Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55973",
+                "name": "Spider-Man (2016) #1 (Granov Hip-&#8203;Hop Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55695",
+                "name": "Spider-Man (2016) #2"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/58614",
+                "name": "Spider-Man (2016) #2 (Campbell Captain America 75th Anniversary Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/59117",
+                "name": "Spider-Man (2016) #2 (Tbd Artist Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55697",
+                "name": "Spider-Man (2016) #3"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55698",
+                "name": "Spider-Man (2016) #4"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55699",
+                "name": "Spider-Man (2016) #5"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55700",
+                "name": "Spider-Man (2016) #6"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/59551",
+                "name": "Spider-Man (2016) #6 (Anka Mighty Men Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55701",
+                "name": "Spider-Man (2016) #7"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/60321",
+                "name": "Spider-Man (2016) #7 (Shalvey Black Panther Variant Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55702",
+                "name": "Spider-Man (2016) #8"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/61136",
+                "name": "Spider-Man (2016) #8 (Cosplay Variant)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55703",
+                "name": "Spider-Man (2016) #9"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/55704",
+                "name": "Spider-Man (2016) #10"
+              }
+            ],
+            "returned": 20
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/series/20508/events",
+            "items": [],
+            "returned": 0
+          },
+          "next": null,
+          "previous": null
+        }
+      ]
+    }
+  }
