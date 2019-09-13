@@ -1,0 +1,30 @@
+[{
+    "id": 1009610,
+    "name": "Spider-Man",
+    "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+    "Series": "Spider-Man",
+    "creator": "Stan Lee",        
+    "url": "http://marvel.com/comics/characters/1009610/spider-man?utm_campaign=apiRef&utm_source=76c7282f8c585c91cd6f4675c0248899"
+}],
+
+[
+    {
+      "id": 30,
+      "fullName": "Stan Lee",
+      "characters": "Spider-Man",
+      "series": "Spider-Man"
+    }
+],
+
+[
+    {
+      "id": 2069,
+      "title": "Spider-Man (1990 - 1998)",
+      "description": null,
+      "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+      "url": "http://marvel.com/comics/series/2069/spider-man_1990_-_1998?utm_campaign=apiRef&utm_source=76c7282f8c585c91cd6f4675c0248899",
+      "startYear": 1990,
+      "characters": "Spider-Man",
+      "creator": "Brian Michael Bendis"
+    }
+  ]

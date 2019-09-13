@@ -1,15 +1,16 @@
 const mongoose = require("../db/connection");
 
-const seriesSchema = new mongoose.Schema ({
+const seriesSchema = new mongoose.Schema({
     id: Number,
-    name: String,
-    characters: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "Character" 
-    },
+    title: String,
+    description: String,
     startYear: Number,
-
-})
+    endYear: Number,
+    creators: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Creator"
+    }],
+});
 
 const Series = mongoose.model("Series", seriesSchema);
 
