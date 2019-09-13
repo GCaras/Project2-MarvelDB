@@ -2,7 +2,12 @@ const mongoose = require('mongoose')
 
 mongoose.Promise = Promise;
 
-mongoose.connect('mongodb://localhost/Marvel', {
+if (process.evv.NODE_ENV === "production") {
+	mongoURI = process.env.RB_URL;
+} else {
+	monguURI = 'mongodb://localhost/Marvel';
+}
+mongoose.connect(mongoURI, {
 		useNewUrlParser: true
 	})
 	.then((conn) => {
