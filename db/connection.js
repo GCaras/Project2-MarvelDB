@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 
 mongoose.Promise = Promise;
 
-if (process.evv.NODE_ENV === "production") {
+if (process.env.NODE_ENV === "production") {
 	mongoURI = process.env.RB_URL;
 } else {
 	monguURI = 'mongodb://localhost/Marvel';
