@@ -5,7 +5,7 @@ mongoose.Promise = Promise;
 if (process.env.NODE_ENV === "production") {
 	mongoURI = process.env.RB_URL;
 } else {
-	monguURI = 'mongodb://localhost/Marvel';
+	mongoURI = 'mongodb://localhost/Marvel';
 }
 mongoose.connect(mongoURI, {
 		useNewUrlParser: true
