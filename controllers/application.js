@@ -1,5 +1,5 @@
 module.exports = {
-    index: (req, res) => {
-      res.redirect("/api/characters");
-    }
-  };
+  index: (req, res) => {
+    res.redirect("/api/characters");
+  }
+};

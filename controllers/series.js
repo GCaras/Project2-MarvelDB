@@ -2,7 +2,10 @@ const Series = require("../models/series");
 
 module.exports = {
     index: (req, res) => {
-        Series.find({}).populate("creators", {fullName: 1, _id: 0}).then(series => {
+        Series.find({}).populate("creators", {
+            fullName: 1,
+            _id: 
+        }).then(series => {
             res.json(series);
         })
     },

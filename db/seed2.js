@@ -7,7 +7,6 @@ const creatorJsonData = require("./data/creatorData.json");
 const seriesJsonDataResults = seriesJsonData.data.results;
 
 Series.find({}).then(seriesDB => {
-
     seriesDB.forEach(seriesDocument => {
         const seriesJson = seriesJsonDataResults.find(seriesJsonItem => {
             return seriesJsonItem.title === seriesDocument.title

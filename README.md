@@ -14,7 +14,7 @@ api/<Characters/Creators/Series>/
 
 * Search for Characters, Series, and Creators by name. 
 ```
-api/<Characters/Creators/Series>/name/:name
+api/<Characters/Creators/Series>/show/:name
 ```
 
 * Create new Characters, Series, and Creators:

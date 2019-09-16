@@ -1,15 +1,9 @@
 const mongoose = require("../db/connection");
 
-
-
-const characterSchema = new mongoose.Schema ({
+const characterSchema = new mongoose.Schema({
     id: Number,
     name: String,
-    description: String,
-    series: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "Series"   
-    }
+    description: String
 })
 
 const Character = mongoose.model("Character", characterSchema);
